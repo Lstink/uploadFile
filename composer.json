@@ -1,0 +1,22 @@
+{
+    "name": "lstink/upload-file",
+    "type": "library",
+    "description": "一个关于文件上传测试的包",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lstink",
+            "email": "1318385889@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "upload\\": "src/"
+        }
+    }
+
+}
